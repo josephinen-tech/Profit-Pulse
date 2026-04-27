@@ -1,0 +1,5 @@
+{
+  "name": "ProfitPulse",
+  "description": "Analyze project profitability by comparing hours worked against client payments to calculate your effective hourly rate.",
+  "requestFramePermissions": []
+}
